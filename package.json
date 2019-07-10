@@ -1,0 +1,18 @@
+{
+  "license": "MIT",
+  "productName": "WordCounter",
+  "description": "Fetches words from an API and count them!",
+  "scripts": {
+    "build": "poi --prod app/index.js --public-url .",
+    "serve": "poi --serve app/index.js",
+    "now-build": "poi --prod app/index.js"
+  },
+  "dependencies": {
+    "tailwindcss": "^1.0.4",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "poi": "^12.7.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
