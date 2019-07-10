@@ -42,6 +42,14 @@ npm run serve
 
 After that your console will display a local address where you can access the app.
 
+### To run tests
+
+This will launch Jest:
+
+```
+npm run test
+```
+
 -----
 
 ## Technology choices
@@ -81,6 +89,14 @@ The advantages are small CSS files and no visual bugs caused by styling changes.
 The technique was presented in this article: https://www.smashingmagazine.com/2013/10/challenging-css-best-practices-atomic-approach/
 
 The author of Tailwind has great arguments for it: https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
+
+### Jest
+
+Jest is a test framework made by Facebook.
+
+It is a simple unit testing framework with some advanced functionality, like snapshots (but I haven't used those here).
+
+I chose to only test the algorithmic portion of the code, since testing Vue components would take more time than I had available.
 
 ### Zeit Now
 

@@ -21,4 +21,4 @@ const rankWords = data => {
   };
 };
 
-export default rankWords;
+module.exports = rankWords;
