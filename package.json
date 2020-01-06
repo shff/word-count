@@ -10,11 +10,11 @@
   },
   "dependencies": {
     "tailwindcss": "^1.1.4",
-    "vue": "^2.6.10"
+    "vue": "^2.6.11"
   },
   "devDependencies": {
     "jest": "^24.8.0",
     "poi": "^12.7.5",
-    "vue-template-compiler": "^2.6.10"
+    "vue-template-compiler": "^2.6.11"
   }
 }
