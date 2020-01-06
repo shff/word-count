@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "jest": "^24.8.0",
-    "poi": "^12.7.0",
+    "poi": "^12.7.5",
     "vue-template-compiler": "^2.6.10"
   }
 }
