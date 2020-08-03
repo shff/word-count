@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "tailwindcss": "^1.6.0",
+    "tailwindcss": "^1.6.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
