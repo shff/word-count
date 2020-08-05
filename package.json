@@ -13,7 +13,7 @@
     "vue": "^2.6.11"
   },
   "devDependencies": {
-    "jest": "^26.2.1",
+    "jest": "^26.2.2",
     "poi": "^12.9.0",
     "vue-template-compiler": "^2.6.11"
   }
